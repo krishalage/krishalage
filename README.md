@@ -1,16 +1,51 @@
-## Hi there 👋
 
-<!--
-**krishalage/krishalage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm Krisha
 
-Here are some ideas to get you started:
+### 🎓 BCA Student | Aspiring Full-Stack Developer | Lifelong Learner
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a Bachelor of Computer Applications (BCA) student from Nepal who enjoys learning by building practical projects. I'm currently strengthening my programming and web development skills while exploring different areas of software development.
+
+
+
+## 🚀 About Me
+
+- 🎓 BCA Student
+- 🌱 Currently learning Full-Stack Web Development
+- 💻 Interested in Web Development, Databases, and Software Engineering
+- 📚 Always trying to improve my coding and problem-solving skills
+- 🤝 Open to learning, collaborating, and contributing to interesting projects
+
+
+
+## 🛠️ Tech Stack
+
+### Languages
+- HTML
+- CSS
+- JavaScript
+- PHP
+- Java
+- SQL
+
+### Database
+- MySQL
+
+### Tools
+- Visual Studio Code
+- XAMPP
+- Git
+- GitHub
+
+## 🌱 Currently Learning
+
+- Advanced JavaScript
+- PHP Backend Development
+- Database Design
+- Git & GitHub
+- Software Engineering Best Practices
+
+> "Once a beginner can be a expert...<br>
+Everything takes time.."
+
+
+
